@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaheshPatial
+- 👋 Hi, I’m @Mahesh
 - 👀 I’m interested in Game Design and Development 
 - 🌱 I’m currently learning C# , Python and ML
 - 💞️ I’m looking to collaborate on Game Design and Development 
